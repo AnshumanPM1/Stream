@@ -1,1 +1,1 @@
-FROM ansh2006/stream:latest
+FROM ansh2006/stream:new
